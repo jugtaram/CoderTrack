@@ -4,7 +4,7 @@
 <head>
 <script>
   (function() {
-    var cx = '014451522246537084794:ywz57f_uh9a';
+    var cx = 'key';
     var gcse = document.createElement('script');
     gcse.type = 'text/javascript';
     gcse.async = true;
