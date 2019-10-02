@@ -1,3 +1,5 @@
 # CoderTrack
-Show user profile using userhandle
-for codechef ,hackerearth, spoj
+It shows user profile using userhandle for various competitive websites like 
+* **Codechef**
+* **Hackerearth**
+* **Spoj**
